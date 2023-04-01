@@ -1,0 +1,7 @@
+Artificial Intelligence, Machine Learning, and Robotics
+Data Science and Analytics
+Internet of Things and Edge Computing
+Cybersecurity and Privacy
+Computer Vision and Biometrics
+Cloud Computing and Blockchain
+Full Stack and DevOps
